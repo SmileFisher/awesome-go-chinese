@@ -4,7 +4,7 @@
 ### 前言
 
 *本仓来自公共资源，主要内容是[avelino/awesome-go](https://github.com/avelino/awesome-go)的翻译，并做了精简和修改。*
-为Gopher量身打造的资源集合，方便开发和学习
+为中文Gopher量身打造的资源集合，方便开发和系统学习，本仓库会及时更新。
 
 ### 贡献
 
