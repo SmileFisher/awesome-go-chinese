@@ -1,6 +1,8 @@
 # <img align="right" src="https://github.com/SmileFisher/Awesome-Go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /> Awesome Go
 
 
+# <img align="right" src="https://github.com/SmileFisher/Awesome-Go/raw/main/tmpl/assets/rcode.jpg" alt="awesome-go" title="awesome-go" /> Awesome Go
+
 ### 前言
 
 *本仓来自公共资源，主要内容是[avelino/awesome-go](https://github.com/avelino/awesome-go)的翻译，并做了精简和修改。*
