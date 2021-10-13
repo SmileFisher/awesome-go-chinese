@@ -3,8 +3,8 @@
 
 ### 前言
 
-##### *本仓来自公共资源，主要内容是[avelino/awesome-go](https://github.com/avelino/awesome-go)的翻译，并做了精简和修改。*
-
+*本仓来自公共资源，主要内容是[avelino/awesome-go](https://github.com/avelino/awesome-go)的翻译，并做了精简和修改。*
+为Gopher量身打造的资源集合，方便开发和学习
 
 ### 贡献
 
@@ -12,7 +12,7 @@
 
 
 ### 目录
-
+- [电子书籍](#电子书籍)
 - [音频和音乐库](#音频和音乐库)
 - [认证和OAuth授权](#认证和oauth授权)
 - [机器人相关](#机器人相关)
@@ -94,6 +94,28 @@
 - [软件包](#软件包)
     - [devops 工具](#devops-工具)
     - [其他软件库和软件包](#其他软件库和软件包)
+
+## 电子书籍
+
+* [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
+* [An Introduction to Programming in Go](https://www.golang-book.com/)
+* [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+* [For the Love of Go](https://bitfieldconsulting.com/books/love) - An introductory book for Go beginners.
+* [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
+* [Go Bootcamp](http://golangbootcamp.com)
+* [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - in Persian.
+* [GoBooks](https://github.com/dariubs/GoBooks) - A curated list of Go books.
+* [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - A 600 page introduction to Go aimed at first time developers.
+* [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
+* [Network Programming With Go](https://jan.newmarch.name/go/)
+* [Practical Go Lessons](https://www.practical-go-lessons.com/)
+* [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/)
+* [The Go Programming Language](https://www.gopl.io/)
+* [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+* [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+* [Writing A Compiler In Go](https://compilerbook.com)
+* [Writing An Interpreter In Go](https://interpreterbook.com)
 
 
 ##  音频和音乐库
