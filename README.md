@@ -1,7 +1,7 @@
 <!-- # <img align="right" src="https://github.com/SmileFisher/Awesome-Go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /> Awesome Go -->
 
 
-# <img align="right" src="https://github.com/SmileFisher/Awesome-Go/raw/main/tmpl/assets/rcode.jpg" alt="awesome-go" title="awesome-go" /> Awesome Go
+# <img align="right" src="https://github.com/SmileFisher/Awesome-Go/raw/main/tmpl/assets/rcode2.jpg" alt="awesome-go" title="awesome-go" /> Awesome Go
 
 ### 前言
 
