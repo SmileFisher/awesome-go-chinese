@@ -3,7 +3,7 @@
 
 ### 前言
 
-### *本仓来自公共资源，主要内容是[avelino/awesome-go](https://github.com/avelino/awesome-go)的翻译，并做了精简和修改。*
+#### *本仓来自公共资源，主要内容是[avelino/awesome-go](https://github.com/avelino/awesome-go)的翻译，并做了精简和修改。*
 
 
 ### 贡献
